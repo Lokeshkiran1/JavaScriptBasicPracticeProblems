@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../Web Development"
+		},
+		{
+			"path": "../../EmployeePayRoll_App"
+		},
+		{
+			"path": "../../EMP_APP"
+		},
+		{
+			"path": "../../SampleWebLayouts"
+		},
+		{
+			"path": "../../CFP_203"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PracticeDay3"
+	}
+}
